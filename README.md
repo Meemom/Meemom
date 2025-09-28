@@ -1,6 +1,6 @@
 ### Hi there, I'm Mima 👋  
 
-🎓 2nd-year CS + Statistics student @ UofT
+🎓 2nd-year CS + Statistics student @ UofT <br>
 🤖 Interested in exploring more hands-on ML, robotics, and app development! 
 
 ## 🔗 Feel free to reach out! 

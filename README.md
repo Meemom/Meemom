@@ -3,7 +3,7 @@
 🎓 2nd-year CS + Statistics student @ UofT
 🤖 Interested in exploring more hands-on ML, robotics, and app development! 
 
-## 🌐 Socials:
+## 🔗 Feel free to reach out! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemima-silaen-14477b20b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jemima.silaen@gmail.com)
 
 # 💻 Tech Stack:

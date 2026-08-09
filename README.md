@@ -1,6 +1,6 @@
-### hi there, I'm Mima 👋 CS Spec @ UofT
+# hi there, I'm Mima 👋 CS Spec @ UofT
 
-# what i've been up to: 
+## what i've been up to: 
 - Incoming Data Science Intern @ Intact — working with NLP and speech analytics
 - Data Science @ NTT DATA — building a model explainability platform for probability-of-default forecasting in banking
 - Product Research @ OpenAI, Localization (Contract) — multilingual LLM evaluation, sentence embeddings, NER, and Indonesian language analysis

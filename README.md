@@ -1,4 +1,4 @@
-# hi there, I'm Mima 👋
+# hi there, i'm mima 👋
 
 **Computer Science Specialist @ University of Toronto**
 

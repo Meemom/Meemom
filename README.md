@@ -7,6 +7,9 @@
 * **Incoming Data Science Intern @ Intact**
   Working with NLP and speech analytics.
 
+* **Research @ R3 Lab**
+  Working on a multilingual benchmark across ~120 languages!
+
 * **Data Science @ NTT DATA**
   Building a model explainability platform for probability-of-default forecasting in banking.
 

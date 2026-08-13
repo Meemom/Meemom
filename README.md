@@ -10,11 +10,11 @@
 * **Research @ R3 Lab**
   Working on a multilingual benchmark across ~120 languages!
 
-* **Data Science @ NTT DATA**
-  Building a model explainability platform for probability-of-default forecasting in banking.
-
 * **Product Research @ OpenAI — Localization (Contract)**
   Worked on multilingual LLM evals, search quality eval pipeline, sentence embeddings, NER, and Indonesian language analysis.
+
+* **Data Science @ NTT DATA**
+  Building a model explainability platform for probability-of-default forecasting in banking.
 
 * **Cybersecurity @ EY**
   Worked on cybersecurity program assessments, CTEM, and digital identity.

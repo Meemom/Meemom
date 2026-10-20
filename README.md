@@ -4,8 +4,8 @@
 
 ## what I've been up to
 
-* **Incoming Data Science Intern @ Intact**
-  Working with NLP and speech analytics.
+* **Data Science Intern @ Intact**
+  Working on an agentic pipeline!
 
 * **Product Research @ OpenAI — Localization (Contract)**
   Worked on multilingual LLM evals, search quality eval pipeline, sentence embeddings, NER, and Indonesian language analysis.

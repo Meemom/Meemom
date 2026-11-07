@@ -1,6 +1,6 @@
 # hi there, i'm mima 👋
 
-**Computer Science Specialist @ University of Toronto**
+**CS Specialist + Stats @ University of Toronto**
 
 ## what I've been up to
 
